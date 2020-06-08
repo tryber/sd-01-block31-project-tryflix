@@ -1,4 +1,4 @@
-# Boas vindas ao projeto Tryflix!!
+# Boas vindas ao projeto Tryflix!!!
 
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por Slack! #vqv 🚀
 
