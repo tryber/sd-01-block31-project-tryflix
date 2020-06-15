@@ -1,17 +1,3 @@
-# Boas vindas ao projeto Tryflix!
-
-Projetin top!
-
-Dupla: Guilherme Luiz e Gabriel Coruja
-
-#### 13 - Use variáveis de ambiente nas credenciais do banco de dados
-
-- Utilize variáveis de ambiente para armazenar suas credenciais de acesso. Como sugestão, utilize a biblioteca [dotenv](https://www.npmjs.com/package/dotenv).
-
-- Seu arquivo `.env` deve estar presente no `.gitignore`.
-
-- Descreva no README do projeto quais são as variáveis de ambiente utilizadas e como configurá-las.
-
 #### Como utilizar variáveis de ambiente no projeto
 
 - Instale a biblioteca [dotenv](https://www.npmjs.com/package/dotenv).
