@@ -206,7 +206,7 @@ typings/
 .cache
 
 # next.js build output
-.next
+front-end/.next
 
 # nuxt.js build output
 .nuxt
@@ -280,3 +280,5 @@ $RECYCLE.BIN/
 
 .vscode
 .coverage
+.env
+.next
